@@ -16,3 +16,18 @@ git log (hitoria de todos los commits)
 
 
 .gitignore (archivo donde se mencionan los files que no queremos que se suban a git) github/gitignore
+
+
+git remote add origin https://github.com/sfrittaoni/gittingstarted.git (primer comando para agregar un repo en github)
+
+git branch -M main (crea la rama)
+git push -u origin main (-u es default)
+
+(github pass: token)
+
+secuencia:
+git add .
+git commit -m 'mensaje'
+git push (no hace falta especificar porque lo hicimos default)
+
+

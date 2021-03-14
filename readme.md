@@ -2,4 +2,4 @@
 
 ### I'd have done it before
 
-You can emailme at [my accaunt](sfrittaoni@gmail.com)
+You can emailme at [my accaunt](Mailto:sfrittaoni@gmail.com)
