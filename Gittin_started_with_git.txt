@@ -31,3 +31,8 @@ git commit -m 'mensaje'
 git push (no hace falta especificar porque lo hicimos default)
 
 
+git clone repositorio
+
+git pull --rebase
+
+
