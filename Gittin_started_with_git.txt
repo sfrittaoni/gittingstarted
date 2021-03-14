@@ -8,3 +8,9 @@ git commit confirma todos los cambios del stagging area
 
 git status da reporte
 
+git add . (todo)
+
+git add "*.txt" (todo los txt con regex)
+
+git log (hitoria de todos los commits)
+
