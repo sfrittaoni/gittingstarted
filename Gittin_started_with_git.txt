@@ -35,4 +35,8 @@ git clone repositorio
 
 git pull --rebase
 
+archivo hele: https://docs.google.com/presentation/d/1tAR8_99sOHF1OZ815qcLcx1XcvIAsUuNilubal_tEEQ/edit#slide=id.g9b56ec4f83_0_104
+
+cheat.sheet: https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+
 
