@@ -1,0 +1,10 @@
+Gittin started with git
+
+git init Primer comando para que git empiece a trackear
+
+git add sube el archivo al staging area
+
+git commit confirma todos los cambios del stagging area
+
+git status da reporte
+
