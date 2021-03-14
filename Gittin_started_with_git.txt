@@ -14,3 +14,5 @@ git add "*.txt" (todo los txt con regex)
 
 git log (hitoria de todos los commits)
 
+
+.gitignore (archivo donde se mencionan los files que no queremos que se suban a git)
